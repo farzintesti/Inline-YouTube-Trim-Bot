@@ -18,4 +18,4 @@ class Config:
     API_ID = int(os.environ.get("API_ID", '3588368'))
     API_HASH = os.environ.get("API_HASH", "3d64c47cfe8d1cb0fc2cc06f5512298e")
     BOT_TOKEN = os.environ.get("BOT_TOKEN", "1696209895:AAGxzpT7oeJ_Q_C_xnGZAWPOU9cQLSbg1TI")     
-    LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", 'testingbro_bot'))
+    LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", 'testingbrobot'))
